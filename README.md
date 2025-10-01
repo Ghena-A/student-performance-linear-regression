@@ -54,4 +54,5 @@ The **target variable** is the students’ exam performance.
 ## 🚀 Run the Project
 You can open and run this project directly in Google Colab:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghena-A/student-performance-linear-regression/main/Student_Model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghena-A/student-performance-linear-regression/blob/main/Student_Model.ipynb)
+
